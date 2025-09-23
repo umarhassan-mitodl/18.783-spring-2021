@@ -1,0 +1,34 @@
+leftnav:
+- identifier: e5c30f22-49fa-8667-27d5-11007088a7a8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 9169147e-9ac1-27bb-34e2-f2d92a887443
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 71be6ed7-f9eb-2665-2815-bb0796215dd1
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: aaf16c37-94b2-7a9c-78c2-45428ea4924e
+  name: Teaching 18.783 in Person
+  pageRef: /pages/instructor-insights/teaching-18-783-in-person
+  parent: 71be6ed7-f9eb-2665-2815-bb0796215dd1
+  weight: 40
+- identifier: 91475099-c882-8444-d472-44cf97408434
+  name: Readings
+  pageRef: /pages/readings
+  weight: 50
+- identifier: 34ce673e-528e-a9cc-e1fc-539d275a3d85
+  name: Lecture Notes and Worksheets
+  pageRef: /pages/lecture-notes-and-worksheets
+  weight: 60
+- identifier: 92e66250-c97c-4578-f088-9c985f26e74a
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: 61afedcb-c7e2-5ed9-cb46-57ac178945b3
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 80
