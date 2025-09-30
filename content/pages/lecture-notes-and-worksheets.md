@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes a full set of lecture notes, some lecture slides,
   and some worksheets.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes and Worksheets
@@ -18,16 +20,16 @@ Lecture 2: The Group Law and Weierstrass and Edwards Equations
 --------------------------------------------------------------
 
 *   {{% resource_link 597144da-afd0-5ed6-8ba5-145a505148cc "The Group Law and Weierstrass and Edwards Equations (notes) (PDF)" %}}
-*   {{% resource_link "b17c4d75-8de4-44a4-92fa-2208a5d35964" "Proof of Associativity (worksheet) (IPYNB)" %}}
-*   {{% resource_link "511d3a57-7602-4810-81d9-d2f74dc5149e" "Group Law on Edwards Curves (worksheet) (IPYNB)" %}}
+*   [Proof of Associativity (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/a6a1c2b188bd61d94c3dd3bfd5aa73722e8bd38b)
+*   [Group Law on Edwards Curves (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/6431a9e6588e41bf035e04074b1d933b8c6d3dd0)
 
 Lecture 3: Finite Field Arithmetic
 ----------------------------------
 
 *   {{% resource_link b6d0aef7-1278-ad8c-1d8b-5144c4138cb7 "Finite Field Arithmetic (notes) (PDF)" %}}
 *   {{% resource_link 0426951d-5746-9c4b-4699-f47dd82b047b "Finite Field Arithmetic (slides) (PDF)" %}}
-*   {{% resource_link "642a9d57-b3d7-4096-8e42-2f30f66b5ceb" "Root-Finding in Finite Fields (worksheet) (IPYNB)" %}}
-*   {{% resource_link "a2995392-0354-4762-8d5b-83f92d5db960" "Root-Finding and Polynomial Factorization over Finite Fields (YouTube)" %}}
+*   [Root-Finding in Finite Fields (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/9bdcdbf44b269761e90bfdadadbad84c03bd8f34)
+*   [Root-Finding and Polynomial Factorization over Finite Fields (YouTube)](https://www.youtube.com/watch?v=HIiotVxxi8c&ab_channel=AndrewSutherland)
 
 Lecture 4: Isogenies
 --------------------
@@ -40,7 +42,7 @@ Lecture 5: Isogeny Kernels and Division Polynomials
 
 *   {{% resource_link 680a7686-aabd-24b2-2a15-eeb96e733838 "Isogeny Kernels and Division Polynomials (notes) (PDF)" %}}
 *   {{% resource_link 59e0623c-0d34-54b3-9d8e-07b493a0e9b0 "Isogeny Kernels and Division Polynomials (slides) (PDF)" %}}
-*   {{% resource_link "c71ca160-292e-4aed-a6c7-b00074928555" "Division Polynomials (worksheet) (IPYNB)" %}}
+*   [Division Polynomials (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/e6d875928c03c09d1c7c42b08c487d8c18a89054)
 
 Lecture 6: Endomorphism Rings
 -----------------------------
@@ -58,7 +60,7 @@ Lecture 8: Schoof's Algorithm
 -----------------------------
 
 *   {{% resource_link 22cad7fa-cecc-b28b-df00-2e3902c9ed49 "Schoof's Algorithm (notes) (PDF)" %}}
-*   {{% resource_link "b97b425e-7e5e-41bb-8d54-9d02e782568c" "Schoof's Algorithm (worksheet) (IPYNB)" %}}
+*   [Schoof's Algorithm (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/600832aafc89f1098d5415b39eec4fbaa63ccab1)
 
 Lecture 9: Generic Algorithms for the Discrete Logarithm Problem
 ----------------------------------------------------------------
@@ -70,9 +72,9 @@ Lecture 10: Index Calculus, Smooth Numbers, and Factoring Integers
 
 *   {{% resource_link fe6fc6be-9a87-8fb5-4550-576a3bdf7477 "Index Calculus, Smooth Numbers, and Factoring Integers (notes) (PDF)" %}}
 *   {{% resource_link d44797c1-410c-81e1-a724-5316bb700b35 "Index Calculus, Smooth Numbers, and Factoring Integers (slides) (PDF)" %}}
-*   {{% resource_link "47262900-e545-464f-ac6b-0a1545711328" "Index Calculus (worksheet) (IPYNB)" %}}
-*   {{% resource_link "6c3a5078-0428-4181-8ced-260193d5f2a3" "Montgomery Elliptic Curve Factorization Method (worksheet) (IPYNB)" %}}
-*   {{% resource_link "8d13f9f3-13bf-43b4-a24d-2ba321df5b5b" "Simple Implementation of Pollard p-1 Algorithm (worksheet) (IPYNB)" %}}
+*   [Index Calculus (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/222c89a54d1d6fce80f1ba7daa10ff2522af861e)
+*   [Montgomery Elliptic Curve Factorization Method (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/eb6864a672ce55b641f57b6ea6efdbe7596199a6)
+*   [Simple Implementation of Pollard p-1 Algorithm (worksheet) (IPYNB)](https://cocalc.com/share/public_paths/ca3d2afaf7d5e747d3d292997f5b8f2fcc704c34)
 
 Lecture 11: Elliptic Curve Primality Proving (ECPP)
 ---------------------------------------------------

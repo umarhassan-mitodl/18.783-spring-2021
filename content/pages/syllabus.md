@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes information about the course topics, readings,
   software, assignments, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -57,32 +59,32 @@ Textbook and Notes
 
 There is no required text; {{% resource_link 34ce673e-528e-a9cc-e1fc-539d275a3d85 "lecture notes" %}} will be provided. We will make reference to material in the following books.
 
-Washington, Lawrence C. _Elliptic Curves: Number Theory and Cryptography_. Second edition. Chapman & Hall / CRC, 2008. ISBN: 9781420071467. ({{% resource_link "4f6c8f35-f65b-4e52-b57a-f4477c071dad" "Errata (PDF)" %}}) \[Preview with {{% resource_link "ffed417e-1628-49b3-bcf7-042b23643e90" "Google Books" %}}\]. {{% resource_link "6d211401-4a88-484c-a2d9-e16913c4d49d" "Online version" %}}.
+Washington, Lawrence C. _Elliptic Curves: Number Theory and Cryptography_. Second edition. Chapman & Hall / CRC, 2008. ISBN: 9781420071467. ([Errata (PDF)](http://www.math.umd.edu/%7Elcw/ECerrata.pdf)) \[Preview with [Google Books](http://books.google.com/books?id=nBfCEqpYKW0C&pg=PAfrontcover)\]. [Online version](https://www.taylorfrancis.com/books/9780429140808).
 
-Milne, James S. _Elliptic Curves_. BookSurge Publishing, 2006. ISBN: 9781419652578. ({{% resource_link "b7d019e6-130a-47b0-b454-12ae8cdc0234" "Addendum / erratum (PDF)" %}}). {{% resource_link "1e735b20-443a-4204-b088-d5a52e7d3ff0" "Online version (PDF - 1.5MB)" %}}.
+Milne, James S. _Elliptic Curves_. BookSurge Publishing, 2006. ISBN: 9781419652578. ([Addendum / erratum (PDF)](http://www.jmilne.org/math/Books/add/EC2006.pdf)). [Online version (PDF - 1.5MB)](https://www.jmilne.org/math/Books/ectext6.pdf).
 
-Silverman, Joseph H. _The Arithmetic of Elliptic Curves_. Springer-Verlag, 2009. ISBN: 9780387094939. ({{% resource_link "ac0da625-dac5-447f-ab2c-10b14c949b63" "Errata (PDF)" %}}) \[Preview with {{% resource_link "f2771411-8839-4fef-bf8c-c4b7cdf475b7" "Google Books" %}}\]. {{% resource_link "a71e1092-fcfe-4c39-bb14-135363a6e57b" "Online version" %}}.
+Silverman, Joseph H. _The Arithmetic of Elliptic Curves_. Springer-Verlag, 2009. ISBN: 9780387094939. ([Errata (PDF)](http://www.math.brown.edu/%7Ejhs/AEC/AECErrata.pdf)) \[Preview with [Google Books](http://books.google.com/books?id=Z90CA_EUCCkC&pg=PAfrontcover)\]. [Online version](https://link.springer.com/book/10.1007/978-0-387-09494-6).
 
-———. _Advanced Topics in the Arithmetic of Elliptic Curves_. Springer-Verlag, 1994. ISBN: 9780387943251. ({{% resource_link "866485bb-3767-45ee-baf6-02048ce9fdb4" "Errata (PDF)" %}}). {{% resource_link "abcca41e-7d44-4b94-874e-2dd2bc5726d0" "Online version" %}}.
+———. _Advanced Topics in the Arithmetic of Elliptic Curves_. Springer-Verlag, 1994. ISBN: 9780387943251. ([Errata (PDF)](http://www.math.brown.edu/%7Ejhs/ATAEC/ATAECErrata.pdf)). [Online version](https://link.springer.com/book/10.1007/978-1-4612-0851-8).
 
-Cox, David A. _Primes of the Form_ \\(x^2 + ny^2\\)_:_ _Fermat, Class Field Theory, and Complex Multiplication_. Wiley-Interscience, 1989. ISBN: 9780471506546. ({{% resource_link "c38ec9d2-f106-4e04-a800-9b1c407b1089" "Errata (PDF)" %}}). {{% resource_link "daa5ff4c-e4d3-41ac-8f19-661ffaadc07e" "Online version" %}}.
+Cox, David A. _Primes of the Form_ \\(x^2 + ny^2\\)_:_ _Fermat, Class Field Theory, and Complex Multiplication_. Wiley-Interscience, 1989. ISBN: 9780471506546. ([Errata (PDF)](http://dacox.people.amherst.edu/primes/typos.2ed.pdf)). [Online version](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118400722).
 
 The following two books give quite accessible introductions to elliptic curves from different perspectives. You may find them useful as supplemental reading, but we will not use of them in the course.
 
-Blake, Ian F., Gadiel Seroussi, and Nigel P. Smart. _Elliptic Curves in Cryptography_. Cambridge University Press, 1999. ISBN: 9780521653749. \[Preview with {{% resource_link "5c13f59e-7a61-4ab4-bffb-0e036ab152e7" "Google Books" %}}\]
+Blake, Ian F., Gadiel Seroussi, and Nigel P. Smart. _Elliptic Curves in Cryptography_. Cambridge University Press, 1999. ISBN: 9780521653749. \[Preview with [Google Books](http://books.google.com/books?id=0_vegzgyqGMC&pg=PAfrontcover)\]
 
-Silverman, Joseph H., and John T. Tate. _Rational Points on Elliptic Curves_. Springer-Verlag, 1994. ISBN: 9780387978253. {{% resource_link "868e6cba-bd3a-4235-86ae-69996b226b76" "Online version" %}}.
+Silverman, Joseph H., and John T. Tate. _Rational Points on Elliptic Curves_. Springer-Verlag, 1994. ISBN: 9780387978253. [Online version](https://link.springer.com/book/10.1007/978-1-4757-4252-7).
 
 The following references provide introductions to algebraic number theory and complex analysis; neither of these topics is an official prerequisite for this course, but we will occasionally need to make use of their results.
 
-{{% resource_link "9a7ba04c-113c-4f45-afe7-862b63017b6d" "Algebraic Number Theory Course Notes" %}} by James S. Milne.
+[Algebraic Number Theory Course Notes](http://www.jmilne.org/math/CourseNotes/ant.html) by James S. Milne.
 
-Lang, Serge. _Complex Analysis_. Springer-Verlag, 2003. ISBN: 9780387985923. {{% resource_link "1d7489e3-34b1-42bc-94aa-3277058da8e7" "Online version" %}}.
+Lang, Serge. _Complex Analysis_. Springer-Verlag, 2003. ISBN: 9780387985923. [Online version](https://link.springer.com/book/10.1007/978-1-4757-3083-8).
 
 Software
 --------
 
-Some of the theorems and algorithms presented in lecture will be demonstrated using {{% resource_link "8efd3f92-62f6-4058-9f38-476e3cac2fed" "Sage" %}}, a python-based computer algebra system, hosted on {{% resource_link "5a53ba35-1c41-4c3f-b1f4-e9c37923f471" "CoCalc" %}}. Most of the problem sets will contain at least one computationally-focused problem, which you will likely want to use Sage to solve, but you are free to use other packages, or roll your own code from scratch. You will be graded on your results and your mathematical explanation and analysis of your algorithm, not your code.
+Some of the theorems and algorithms presented in lecture will be demonstrated using [Sage](https://www.sagemath.org/), a python-based computer algebra system, hosted on [CoCalc](https://cocalc.com/). Most of the problem sets will contain at least one computationally-focused problem, which you will likely want to use Sage to solve, but you are free to use other packages, or roll your own code from scratch. You will be graded on your results and your mathematical explanation and analysis of your algorithm, not your code.
 
 Problem Sets
 ------------

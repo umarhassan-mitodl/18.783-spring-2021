@@ -37,9 +37,9 @@ Note: Dr. Sutherland has also provided {{% resource_link aaf16c37-94b2-7a9c-78c2
 
 **OCW:** In the first half of the course, you make extensive use of notebooks on a cloud computing platform. Can you describe the technology you used, and what some of its advantages were for you as an instructor?
 
-**Andrew Sutherland:** We used the CoCalc platform and the Sage computer algebra system, both of which are open-source resources, freely available under a GNU public license; the source code for them can be downloaded from the public GitHub repositories at {{% resource_link "61a4019c-8880-415f-a33a-7b4a2c3c8d34" "https://github.com/sagemathinc/cocalc" %}} and {{% resource_link "8aecf66e-aa91-482e-8d3d-3abd97d573a0" "https://github.com/sagemath/sage" %}}.
+**Andrew Sutherland:** We used the CoCalc platform and the Sage computer algebra system, both of which are open-source resources, freely available under a GNU public license; the source code for them can be downloaded from the public GitHub repositories at [https://github.com/sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) and [https://github.com/sagemath/sage](https://github.com/sagemath/sage).
 
-If an educator wanted to run their own CoCalc server they could. I find it more convenient to use the online hosting provided at {{% resource_link "5a53ba35-1c41-4c3f-b1f4-e9c37923f471" "https://cocalc.com/" %}}, which saves me the hassle of managing my own server and ensures that the notebooks that are part of the course materials will stay available for anyone to use free of charge indefinitely. If I were running my own server, at some point I would tire of maintaining it!
+If an educator wanted to run their own CoCalc server they could. I find it more convenient to use the online hosting provided at [https://cocalc.com/](https://cocalc.com/), which saves me the hassle of managing my own server and ensures that the notebooks that are part of the course materials will stay available for anyone to use free of charge indefinitely. If I were running my own server, at some point I would tire of maintaining it!
 
 The argument for using CoCalc is that you are making your content permanently available to the public in an easy-to-find place. Furthermore, the notebooks on CoCalc can be run in the context they were created, using the same version of Jupyter, Sage, etc., so that their computations should be completely reproducible. This is not necessarily true of software posted on other platforms, since you might be compiling and running it in an environment that is different (OS version, library versions, etc…).
 
@@ -61,7 +61,7 @@ A course in algebra covering groups, rings, and fields (including Galois theory)
 
 ### Requirements Satisfied
 
-18.783 can be applied toward a {{% resource_link "1d1c986f-6fd8-4fc3-acf6-1f81ae39913d" "Bachelor of Science in Mathematics" %}}, but is not required.
+18.783 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/), but is not required.
 
 ### Offered
 
@@ -94,7 +94,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 ### In Class
 
 - Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance.
-- Several of the lectures included interactive sessions using {{% resource_link "f937d858-eeee-48e1-8ca2-c05b1379a68a" "Sage" %}}. The Sage worksheets are listed in the {{% resource_link 34ce673e-528e-a9cc-e1fc-539d275a3d85 "lecture notes" %}} section.
+- Several of the lectures included interactive sessions using [Sage](http://sagemath.org/). The Sage worksheets are listed in the {{% resource_link 34ce673e-528e-a9cc-e1fc-539d275a3d85 "lecture notes" %}} section.
 
 ### Out of Class
 
