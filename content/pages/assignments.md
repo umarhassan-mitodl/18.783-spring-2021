@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section includes 12 problem sets in both LaTex and PDF.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -20,7 +18,7 @@ uid: 92e66250-c97c-4578-f088-9c985f26e74a
 
 {{% resource_link ebc9dff9-cb58-5cf7-37fa-dc02c84cf775 "Problem Set 5 (PDF)" %}} ({{% resource_link 7f13d091-8e7f-6f70-ff90-5c8905d3dd24 "TEX" %}})
 
-[Problem Set 5 Problem 1 Rubik's Pie (YouTube)](https://www.youtube.com/watch?v=HlOm9z64cIE&t=1s&ab_channel=AndrewSutherland)
+{{% resource_link "55a47a59-8e62-4a8f-b0c5-4ad1b5d5e02c" "Problem Set 5 Problem 1 Rubik's Pie (YouTube)" %}}
 
 {{% resource_link fdf7e9a1-0485-9c26-063b-d422eb301667 "Problem Set 6 (PDF)" %}} ({{% resource_link ae9c5f5f-1bad-b21a-c0ad-2987b3343a26 "TEX" %}})
 

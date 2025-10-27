@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-783-elliptic-curves-spring-2021/0299e2fef94d866b78e3c3fcd036fb40_MIT18_783S21_notes6.pdf
 file_size: 426325
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
